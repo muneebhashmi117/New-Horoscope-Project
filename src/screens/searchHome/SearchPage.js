@@ -95,7 +95,7 @@ const Search = ({navigation}) => {
         />{' '}
         <TouchableOpacity style={styles.confirmBtn} onPress={handleOrder}>
           {' '}
-          <Text style={styles.confirmBtnText}>Add Resturant</Text>{' '}
+          <Text style={styles.confirmBtnText}>Add new Resturant</Text>{' '}
         </TouchableOpacity>{' '}
       </View>{' '}
     </View>
