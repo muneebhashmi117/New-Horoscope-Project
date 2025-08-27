@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160796033902",
+    "project_id": "uipracticing",
+    "storage_bucket": "uipracticing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160796033902:android:293c5978ff0c1045ccb77f",
+        "android_client_info": {
+          "package_name": "com.uipracticing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZAAdTXAKNCRzHREHarhuljzvqCicyYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
