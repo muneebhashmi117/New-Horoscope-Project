@@ -65,10 +65,11 @@ const Search = ({navigation}) => {
         {' '}
         <Text style={styles.title}>Name</Text>{' '}
         <TextInput
-          placeholder="Enter Resturant id"
+          placeholder="Enter New Resturant Name"
           value={Name}
           onChangeText={setName}
           style={styles.input}
+
           placeholderTextColor={COLORS.gray}
         />{' '}
         {/* 🔹 Restaurant Dropdown */}{' '}
