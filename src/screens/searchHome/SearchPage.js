@@ -65,7 +65,7 @@ const Search = ({navigation}) => {
         {' '}
         <Text style={styles.title}>Name</Text>{' '}
         <TextInput
-          placeholder="Enter New Resturant Name"
+          placeholder="Resturant Name"
           value={Name}
           onChangeText={setName}
           style={styles.input}
