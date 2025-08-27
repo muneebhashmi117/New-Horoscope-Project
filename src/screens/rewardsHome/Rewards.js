@@ -1,4 +1,4 @@
-import {StyleSheet, Text, View, TouchableOpacity, FlatList} from 'react-native';
+import {StyleSheet, Text, View, FlatList} from 'react-native';
 import React, {useState, useEffect} from 'react';
 import {Dropdown} from 'react-native-element-dropdown';
 import firestore from '@react-native-firebase/firestore';
@@ -117,5 +117,6 @@ const styles = StyleSheet.create({
     marginTop: hp(2),
     fontSize: wp(4),
     color: COLORS.darkText,
+    backgroundColor: COLORS.yellow,
   },
 });

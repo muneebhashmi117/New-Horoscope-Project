@@ -69,7 +69,6 @@ const Search = ({navigation}) => {
           value={Name}
           onChangeText={setName}
           style={styles.input}
-
           placeholderTextColor={COLORS.gray}
         />{' '}
         {/* 🔹 Restaurant Dropdown */}{' '}
